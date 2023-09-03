@@ -1,2 +1,2 @@
 # vulner-assessment-report
-Used Greenbone OpenVAS to scan for vulnerabilities on various local hosts and then analyzed the results.
+The task was to use Greenbone OpenVAS to scan for vulnerabilities on various local hosts and then analyze the results in a report.
